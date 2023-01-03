@@ -1,0 +1,141 @@
+.main-nav li.current a{
+	color:#232323;
+	border-bottom: 3px solid rgba(230,174,0,5.5);
+	}
+.home-title p .rotation-back{
+	background-color:#e7ad00;
+	}
+.home-bottom a {
+	color: #e7ad00;	
+	}
+.home-bottom a:hover {
+	color: #e7ad00;	
+	border: 1px solid #e7ad00;
+}
+.page-header h1 span i{
+	color:#e7ad00;
+	}
+.content-icon-background-part{
+	background-color:#e7ad00;
+	}
+.content-icon-part .custom-top-icon{
+	color:#e7ad00;
+	}
+.content-icon-part .custom-bottom-icon{
+	color:#e7ad00;
+	}
+.progress-content:hover .progress-icon i{
+	background-color:#e7ad00;
+	}
+.team-iamge figcaption a:hover{
+	color:#e7ad00;
+	}
+.custom-team-header-icon{
+	color:#e7ad00;
+	}
+.custom-team-bottom-icon{
+	color:#e7ad00;
+	}
+.stastment-content p{
+	color:#e7ad00;
+	}
+#filters ul li a:hover h3, #filters ul li a.active h3 {
+	background-color: #e7ad00;
+	}
+.fact p span i{
+	background-color:#e7ad00;
+	}
+.blog-custom-icon i{
+	color:#e7ad00;
+	}
+.blog-read-more{
+	color:#e7ad00;
+	}
+.blog-read-more:hover{
+	color:#e7ad00;
+	}
+.content-black p{
+	color:#e7ad00;
+	}
+.panel-title i{
+	color:#e7ad00;
+	}
+.testimonial-content p span{
+	color:#e7ad00;
+	}
+.carousel-indicators .active {
+	border: 1px solid #e7ad00;
+	}
+.contact-content p span{
+	color:#e7ad00;
+	}
+.custom-contact-send-button{
+	background-color:#e7ad00;
+	border:1px solid #e7ad00;
+	}
+.custom-contact-send-button:hover, .custom-contact-send-button:focus, .custom-contact-send-button:active{
+	background-color:#e7ad00;
+	border:1px solid #e7ad00;
+	}
+.footer-social ul li a:hover{
+	color:#e7ad00;
+	}
+.blog-Tags ul li:hover{
+	border:1px solid #e7ad00;
+	}
+.border-content{
+	border-left:3px solid #e7ad00;
+	}
+.border-content-custom span{
+	color:#e7ad00;
+	}
+.author-content a span{
+	color:#e7ad00;
+	}
+.custom-contact-send-button-2{
+	background-color:#e7ad00;
+	border:1px solid #e7ad00;
+	}
+.custom-contact-send-button-2:hover, .custom-contact-send-button-2:focus, .custom-contact-send-button-2:active{
+	background-color:#e7ad00;
+	border:1px solid #e7ad00;
+	}
+.nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus {
+	border-top: 3px solid #e7ad00;
+}
+.nav-tabs > li > a:hover, .nav-tabs > li > a:focus {
+	border-top: 3px solid #e7ad00;
+	}
+.col-xs-4 .nav-tabs > li.active > a, .col-xs-4 .nav-tabs > li.active > a:hover, .col-xs-4 .nav-tabs > li.active > a:focus {
+	border-top: 3px solid #e7ad00;
+	}
+.prize-table-row_hover:hover .prize-custom{
+	background:#e7ad00;
+	}
+.prize-table-icon{
+	color:#e7ad00;
+	}
+.prize-table-row_active .prize-table-row_wrap  .prize-custom{
+	background:#e7ad00;
+	}
+.skillbar-title,
+.skillbar-bar{
+	background: #e7ad00;
+}
+.portfolio-custom-button{
+	background-color:#e7ad00;
+	border-color:#e7ad00;
+	}
+.portfolio-custom-button:hover, .portfolio-custom-button:focus, .portfolio-custom-button:active{
+	background-color:#e7ad00;
+	border:1px solid #e7ad00;
+	}
+.portfolio-overlay .thumb-info h3 {
+	color: #e7ad00;
+	}
+.portfolio-overlay  .thumb-info .portfolio-top-icon{
+	color:#e7ad00;
+	}
+.portfolio-overlay  .thumb-info .portfolio-bottom-icon{
+	color:#e7ad00;
+	}

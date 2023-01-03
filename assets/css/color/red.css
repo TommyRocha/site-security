@@ -1,0 +1,140 @@
+.main-nav li.current a{
+	border-bottom: 3px solid rgba(123,19,22,1);
+	}
+.home-title p .rotation-back{
+	background-color: rgba(123,19,22,1);
+	}
+.home-bottom a {
+	color: rgba(123,19,22,1);
+	}
+.home-bottom a:hover {
+	color:rgba(123,19,22,1);
+	border: 1px solid rgba(123,19,22,1);
+}
+.page-header h1 span i{
+	color:rgba(123,19,22,1);
+	}
+.content-icon-background-part{
+	background-color:rgba(123,19,22,1);
+	}
+.content-icon-part .custom-top-icon{
+	color:rgba(123,19,22,1);
+	}
+.content-icon-part .custom-bottom-icon{
+	color:rgba(123,19,22,1);
+	}
+.progress-content:hover .progress-icon i{
+	background-color:rgba(123,19,22,1);
+	}
+.team-iamge figcaption a:hover{
+	color:rgba(123,19,22,1);
+	}
+.custom-team-header-icon{
+	color:rgba(123,19,22,1);
+	}
+.custom-team-bottom-icon{
+	color:rgba(123,19,22,1);
+	}
+.stastment-content p{
+	color:rgba(123,19,22,1);
+	}
+#filters ul li a:hover h3, #filters ul li a.active h3 {
+	background-color:rgba(123,19,22,1);
+	}
+.fact p span i{
+	background-color:rgba(123,19,22,1);
+	}
+.blog-custom-icon i{
+	color:rgba(123,19,22,1);
+	}
+.blog-read-more{
+	color:rgba(123,19,22,1);
+	}
+.blog-read-more:hover{
+	color:rgba(123,19,22,1);
+	}
+.content-black p{
+	color:rgba(123,19,22,1);
+	}
+.panel-title i{
+	color:rgba(123,19,22,1);
+	}
+.testimonial-content p span{
+	color:rgba(123,19,22,1);
+	}
+.carousel-indicators .active {
+	border: 1px solid rgba(123,19,22,1);
+	}
+.contact-content p span{
+	color:rgba(123,19,22,1);
+	}
+.custom-contact-send-button{
+	background-color:rgba(123,19,22,1);
+	border:1px solid rgba(123,19,22,1);
+	}
+.custom-contact-send-button:hover, .custom-contact-send-button:focus, .custom-contact-send-button:active{
+	background-color:rgba(123,19,22,1);
+	border:1px solid rgba(123,19,22,1);
+	}
+.footer-social ul li a:hover{
+	color:rgba(123,19,22,1);
+	}
+.blog-Tags ul li:hover{
+	border:1px solid rgba(123,19,22,1);
+	}
+.border-content{
+	border-left:3px solid rgba(123,19,22,1);
+	}
+.border-content-custom span{
+	color:rgba(123,19,22,1);
+	}
+.author-content a span{
+	color:rgba(123,19,22,1);
+	}
+.custom-contact-send-button-2{
+	background-color:rgba(123,19,22,1);
+	border:1px solid rgba(123,19,22,1);
+	}
+.custom-contact-send-button-2:hover, .custom-contact-send-button-2:focus, .custom-contact-send-button-2:active{
+	background-color:rgba(123,19,22,1);
+	border:1px solid rgba(123,19,22,1);
+	}
+.nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus {
+	border-top: 3px solid rgba(123,19,22,1);
+}
+.nav-tabs > li > a:hover, .nav-tabs > li > a:focus {
+	border-top: 3px solid rgba(123,19,22,1);
+	}
+.col-xs-4 .nav-tabs > li.active > a, .col-xs-4 .nav-tabs > li.active > a:hover, .col-xs-4 .nav-tabs > li.active > a:focus {
+	border-top: 3px solid rgba(123,19,22,1);
+	}
+.prize-table-row_hover:hover .prize-custom{
+	background:rgba(123,19,22,1);
+	}
+.prize-table-icon{
+	color:rgba(123,19,22,1);
+	}
+.prize-table-row_active .prize-table-row_wrap  .prize-custom{
+	background:rgba(123,19,22,1);
+	}
+.skillbar-title,
+.skillbar-bar{
+	background: rgba(123,19,22,1);
+}
+.portfolio-custom-button{
+	background-color: rgba(123,19,22,1);
+	border-color:rgba(123,19,22,1);
+	}
+.portfolio-custom-button:hover, .portfolio-custom-button:focus, .portfolio-custom-button:active{
+	background-color:rgba(123,19,22,1);
+	border:1px solid rgba(123,19,22,1);
+	}
+.portfolio-overlay .thumb-info h3 {
+	color: rgba(123,19,22,1)!important;
+	}
+.portfolio-overlay  .thumb-info .portfolio-top-icon{
+	color:rgba(123,19,22,1);
+	}
+.portfolio-overlay  .thumb-info .portfolio-bottom-icon{
+	color: rgba(123,19,22,1);
+	}

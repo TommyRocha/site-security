@@ -1,0 +1,140 @@
+.main-nav li.current a{
+	border-bottom: 3px solid rgba(236, 0, 95,5.5);
+	}
+.home-title p .rotation-back{
+	background-color:#ec005f;
+	}
+.home-bottom a {
+	color: #ec005f;	
+	}
+.home-bottom a:hover {
+	color: #ec005f;	
+	border: 1px solid #ec005f;
+}
+.page-header h1 span i{
+	color:#ec005f;
+	}
+.content-icon-background-part{
+	background-color:#ec005f;
+	}
+.content-icon-part .custom-top-icon{
+	color:#ec005f;
+	}
+.content-icon-part .custom-bottom-icon{
+	color:#ec005f;
+	}
+.progress-content:hover .progress-icon i{
+	background-color:#ec005f;
+	}
+.team-iamge figcaption a:hover{
+	color:#ec005f;
+	}
+.custom-team-header-icon{
+	color:#ec005f;
+	}
+.custom-team-bottom-icon{
+	color:#ec005f;
+	}
+.stastment-content p{
+	color:#ec005f;
+	}
+#filters ul li a:hover h3, #filters ul li a.active h3 {
+	background-color: #ec005f;
+	}
+.fact p span i{
+	background-color:#ec005f;
+	}
+.blog-custom-icon i{
+	color:#ec005f;
+	}
+.blog-read-more{
+	color:#ec005f;
+	}
+.blog-read-more:hover{
+	color:#ec005f;
+	}
+.content-black p{
+	color:#ec005f;
+	}
+.panel-title i{
+	color:#ec005f;
+	}
+.testimonial-content p span{
+	color:#ec005f;
+	}
+.carousel-indicators .active {
+	border: 1px solid #ec005f;
+	}
+.contact-content p span{
+	color:#ec005f;
+	}
+.custom-contact-send-button{
+	background-color:#ec005f;
+	border:1px solid #ec005f;
+	}
+.custom-contact-send-button:hover, .custom-contact-send-button:focus, .custom-contact-send-button:active{
+	background-color:#ec005f;
+	border:1px solid #ec005f;
+	}
+.footer-social ul li a:hover{
+	color:#ec005f;
+	}
+.blog-Tags ul li:hover{
+	border:1px solid #ec005f;
+	}
+.border-content{
+	border-left:3px solid #ec005f;
+	}
+.border-content-custom span{
+	color:#ec005f;
+	}
+.author-content a span{
+	color:#ec005f;
+	}
+.custom-contact-send-button-2{
+	background-color:#ec005f;
+	border:1px solid #ec005f;
+	}
+.custom-contact-send-button-2:hover, .custom-contact-send-button-2:focus, .custom-contact-send-button-2:active{
+	background-color:#ec005f;
+	border:1px solid #ec005f;
+	}
+.nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus {
+	border-top: 3px solid #ec005f;
+}
+.nav-tabs > li > a:hover, .nav-tabs > li > a:focus {
+	border-top: 3px solid #ec005f;
+	}
+.col-xs-4 .nav-tabs > li.active > a, .col-xs-4 .nav-tabs > li.active > a:hover, .col-xs-4 .nav-tabs > li.active > a:focus {
+	border-top: 3px solid #ec005f;
+	}
+.prize-table-row_hover:hover .prize-custom{
+	background:#ec005f;
+	}
+.prize-table-icon{
+	color:#ec005f;
+	}
+.prize-table-row_active .prize-table-row_wrap  .prize-custom{
+	background:#ec005f;
+	}
+.skillbar-title,
+.skillbar-bar{
+	background: #ec005f;
+}
+.portfolio-custom-button{
+	background-color:#ec005f;
+	border-color:#ec005f;
+	}
+.portfolio-custom-button:hover, .portfolio-custom-button:focus, .portfolio-custom-button:active{
+	background-color:#ec005f;
+	border:1px solid #ec005f;
+	}
+.portfolio-overlay .thumb-info h3 {
+	color: #ec005f!important;
+	}
+.portfolio-overlay  .thumb-info .portfolio-top-icon{
+	color:#ec005f;
+	}
+.portfolio-overlay  .thumb-info .portfolio-bottom-icon{
+	color:#ec005f;
+	}

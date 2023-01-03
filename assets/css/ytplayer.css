@@ -1,0 +1,121 @@
+
+/* Control bar */
+.mb_YTVPBar .ytpicon{
+font-size: 14px;
+font-family: 'ytpregular';
+}
+
+.mb_YTVPBar .mb_YTVPUrl.ytpicon{
+font-size: 18px;
+}
+
+.mb_YTVPBar{
+transition: opacity 1s;
+-moz-transition: opacity 1s;
+-webkit-transition: opacity 1s;
+-o-transition: opacity 1s;
+display: block;
+width: 100%;
+height: 10px;
+padding: 5px;
+background: #333;
+position: fixed;
+bottom: 0;
+left: 0;
+-moz-box-sizing: padding-box;
+-webkit-box-sizing: border-box;
+text-align: left;
+z-index: 1000;
+font: 14px/16px sans-serif;
+color:white;
+opacity: .1;
+}
+
+.mb_YTVPBar.visible, .mb_YTVPBar:hover{
+opacity: 1;
+}
+
+
+
+.mb_YTVPBar span{
+display: inline-block;
+font: 16px/20px sans-serif;
+position: relative;
+width: 30px;
+height: 25px;
+vertical-align: middle;
+}
+
+.mb_YTVPBar span.mb_YTVPTime{
+width: 130px;
+}
+
+.mb_YTVPBar span.mb_YTVPUrl,.mb_YTVPBar span.mb_OnlyYT {
+position: absolute;
+width: auto;
+display: block;
+top: 6px;
+right: 10px;
+cursor: pointer;
+}
+
+.mb_YTVPBar span.mb_YTVPUrl img{
+width: 60px;
+}
+
+.mb_YTVPBar span.mb_OnlyYT {
+left: 185px;
+right: auto;
+}
+
+.mb_YTVPBar span.mb_OnlyYT img{
+width: 25px;
+}
+
+.mb_YTVPBar span.mb_YTVPUrl a{
+color: white;
+}
+
+.mb_YTVPPlaypause,.mb_YTVPlayer .mb_YTVPPlaypause img{
+cursor: pointer;
+}
+
+.mb_YTVPMuteUnmute{
+cursor: pointer;
+}
+
+/* Progress bar */
+.mb_YTVPProgress{
+height: 10px;
+width: 100%;
+background: #222;
+bottom: 0;
+left: 0;
+}
+
+.mb_YTVPLoaded{
+height: 10px;
+width: 0;
+background: #444;
+left: 0;
+}
+
+.mb_YTVTime{
+height: 5px;
+width: 0;
+background: #fff;
+bottom: 0;
+left: 0;
+-moz-box-shadow: #666666 1px 1px 3px;
+-webkit-box-shadow: #666666 1px 1px 3px;
+}
+
+.YTPOverlay.raster{
+background: url("../../images/raster.png");
+}
+
+.YTPOverlay.raster.retina{
+background: url("../../images/raster@2x.png");
+}
+
+.full-video {height:720px;}

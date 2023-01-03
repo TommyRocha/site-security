@@ -1,0 +1,71 @@
+body{
+	padding-bottom:0px;
+}
+#about{
+	position:relative;
+	background-color:white;
+}
+.about-us-content{
+	margin-bottom:150px;
+	}
+#team{
+	position:relative;
+	background-color:white;
+}
+#progress{
+	position:relative;
+	margin-top:0px;
+}
+.progress-back{
+	background-attachment:inherit;
+}
+#statement{
+	position:relative;
+	margin-top:0px;
+}
+.statement-back{
+	background-attachment:inherit;
+}
+.team-member{
+	margin-bottom:120px;
+	}
+#work{
+	position: relative;
+	background-color: white;
+}
+#number-count{
+	position:relative;
+	margin-top:0px;
+}
+.counter-back{
+	background-attachment:inherit;
+}
+#blog{
+	position:relative;
+	background-color:white;
+}
+.second-column-content{margin-bottom:115px;}
+#additional{
+	position:relative;
+	margin-top:0px;
+	}
+.article-back{
+	background-attachment:inherit;
+}
+#testimonial{
+	position:relative;
+	background-color:white;
+	}
+#contact{
+	position:relative;
+}
+.contact-back{
+	background-attachment:inherit;
+}
+#footer{
+	position:relative;
+	background-color:white;
+}
+.footer-social{
+	margin-bottom:20px;
+}
